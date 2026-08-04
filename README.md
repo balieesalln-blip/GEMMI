@@ -3,3 +3,4 @@ gcc -O2 malbolge.c -o malbolge
 
 # Run a source file
 ./malbolge hello_world.mlb
+hello worl 
